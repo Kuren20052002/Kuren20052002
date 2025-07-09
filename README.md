@@ -3,7 +3,7 @@
 🎓 Backend Developer in training <br>
 💡 Learning from UIT-VNUHCM and The Odin Project | Passionate about clean code & meaningful apps<br>
 🚀 On a mission to become a backend developer & land a job in Japan <br>
-📚 Currently learning: N2 Japanese & Rails & NextJS<br>
+📚 Currently learning: N2.5 Japanese & Rails & NextJS<br>
 🌱 Learning from every mistake. 
 
 
